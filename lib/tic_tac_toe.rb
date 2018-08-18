@@ -105,4 +105,5 @@ end
 end
 
 def play(board)
+  turn(board)
 end
