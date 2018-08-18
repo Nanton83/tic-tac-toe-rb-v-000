@@ -1,4 +1,4 @@
-
+# rspec spec/02_play_spec.rb
 
 WIN_COMBINATIONS = [
   [0,1,2], # top row
